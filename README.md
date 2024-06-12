@@ -5,14 +5,29 @@
 
 
 ### 若a值 為0，依b值判斷方程式是否有解且輸出，若a與b同時為0，則輸出Data error!
-![image](https://github.com/WaspStringboy/6-12/assets/113665216/04feb356-6766-4bc4-9e0d-94e8aa0e6323)
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/70ed5adc-d01b-44eb-8dab-740f387a4045)
+
+
 
 ### 若方程式無實數解，輸出「此方程式無實數解」；
-![image](https://github.com/WaspStringboy/6-12/assets/113665216/3c053669-2f52-40eb-aba1-806a9c7943ea)
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/3f56f195-df0f-4eef-8a44-9ec01fa7b962)
+
 
 
 ### 若方程式有兩個相同的實數解，輸出一個解，結果保留2位小數；
-![image](https://github.com/WaspStringboy/6-12/assets/113665216/9623b09a-dce5-4f4d-97bf-97792c5aa15c)
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/65180e5a-0924-456d-af18-afaf8cbcea9d)
+
 
 
 ### 如果方程式有兩個不同的實數解，在一行內依照從大到小順序輸出方程式的兩個解，用空格分隔，結果保留2位小數。
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/13f83c71-d878-4a90-a3db-c5b63c4f07d5)
+
+# 實例:顯示Data error
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/e0c3659b-c05c-4fbe-a934-72e370065f2c)
+
+# 實例:顯示「此方程式無實數解」
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/1d573565-270d-41be-81d6-39307ac2b3a2)
+
+# 實作介紹面(使用VS程式碼)
+![image](https://github.com/WaspStringboy/6-12/assets/113665216/303c3eee-fe82-4d08-957c-8bd4f0d3c7ed)
+
